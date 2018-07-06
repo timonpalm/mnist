@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "firstneuralnnet",
+  "private_key_id": "1923b921bc32124057730e684fb9429d6da8ac22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDC4hbWYTVgJQE2\n0UMxOEOXJoOIchYIOe+RhovCvAflE8lvv+ZeGsMF73v6O5NlK0ys810hOcC3uNRU\n0z8dHcR1Zr0wzrZbqvf37NAxE6kUY1ctvKOzrbXgIK5jVIelgsbQJt3Xkl/2DNIY\nKHMprYThdeLhl7mDX7nBRXGo08gPaN9bcJiBvKNBhSlwVaW8w1uHNmUuLMwfcH5A\nMseGcYN2j+s+7A44+C0jqf5vzYvMAfxwsUZVuuZa5cJfnIiEwHonvJBwWXp5FdQk\nSm4CkKhnbXqbzC1KWttQjPb2GMIU1iSiDuWHrj1B3t9x/MBuhB26LT3+M3okxWpQ\nJQRiDK+NAgMBAAECggEAXGNMilNJN4wzeCZaoVHYEScMAjp7oWi93xKW3TnA0GPC\nAj1KW+B6Bi1Ta/ykUrjlP7SbuO2lJDP2TURcTlRXV4TeOe41W13A8oMM68czR9wU\nbzVXsg2vBFLZ+XMQX3GRCQrz7oeRAJdxXkyG1AJT1YLKjUIdi19tM2fVi0DjPhIY\naC9xyd7wL7w2wqxuHGOAdmG4hSH44HDNxtV/ep7CwlPnOmsU1g56IiR2ng3iA7E5\nX2JuxcshaQeN60OkLpo4XScSI2nWB3W2/cwWV4knPLF6YemFW0Z+RRawyofr1eBZ\nKkUxPs79PBNXOGvtV3bqXPaTedFj37C0rZQNxxQzjQKBgQDtu9Tw8iBbkhDg1H7P\nmIEudvwopcIrIZpw9GxQEm/rbfXh2bybhDcGY6XVrnQUSm5dqZHOOdFG9V4N1iRd\nrssJupfE6Z/4X5PhjVIPvfyUA6zCey3etDL1ZoBrXa4PyLkKKN5k4rd1xNk1s1yj\nwmY+v53ZIsBHb/7iq+xRrVpy2wKBgQDR22WNfwJ6Eu/3Tu2UdL9QXx8QCiFk5VV2\nBIQPYmuxlZHXgmJmgpjCOGbl1hF5zOClBtm+SwtrmbIyqfhyqu12oLZr6JRvHOVw\nRjZFqsvfaNSxFEjI37ziYgLwUv3BjPvIGISgOBDbjTNAQvqaRGjN8r/XBgrPwTAg\nizD/zclPtwKBgQDhRB6ewY/PtTSxFimjZIrkEHMXwRmf7RN+/Ny1cwMCPwvCmqOR\naVMKhtnZBJmRsIWr0sYKd9bKOi6JReTnsH1MFrdBK28d1tM14sdji08OofzNvBLW\n+EFhL2N4WShaZISSD+/MANh+i6yWqgKaWdawlrlnyvoPtxv6hZZEPtN6CQKBgQCI\nT5MaIpqwQma+Y/UsDd1Kzk51866XQ+OMAgjpmUtMkVOnAVj7Lu8ckNg9iBvX2r08\nVEPROBuV68J06DSp/t65xFBZrTvlJIbfs6uC+xrr5cLptrxERhgBkBpKkg2jz/in\nk01qaKCCi6fzoM34sGDHDVuQxqr1IY4qRV8xeTC+5wKBgHwK5iC3+hwQein4Y0Dq\nt3UhxRZF8Ub3HQmIPf727KMIGG1T0vUmHamRLLJ6v5aS/OgiGTh30p3Bypaikc1l\ngOxqLlzNri5WlODF37YmysEPpMXdGUhznZrgyJO8imT6mpc+XD3cK5Nl4f46qleS\nOMSmpqKZzI1n808ro1RAL9Zz\n-----END PRIVATE KEY-----\n",
+  "client_email": "timon-981@firstneuralnnet.iam.gserviceaccount.com",
+  "client_id": "104437694355775220912",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/timon-981%40firstneuralnnet.iam.gserviceaccount.com"
+}
